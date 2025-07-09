@@ -37,7 +37,7 @@ This project is a GUI-based Password Strength Checker that not only analyzes com
 
 ## Screenshot
 
-![strong password](Screenshot1png)
+![strong password](Screenshot1.png)
 ![Breach Message](Screenshot2.png)
 
 ---
